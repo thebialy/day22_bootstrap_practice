@@ -9,4 +9,5 @@ body {
 
 .card {
     border: 3px solid green;
+    width: 18rem;
 }
